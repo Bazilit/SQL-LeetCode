@@ -4,3 +4,4 @@
 * [596. Classes More Than 5 Students / В классах более 5 учеников](https://github.com/Bazilit/SQL-LeetCode/blob/main/596.%20Classes%20More%20Than%205%20Students)
 * [1757. Recyclable and Low Fat Products / Перерабатываемые и обезжиренные продукты](https://github.com/Bazilit/SQL-LeetCode/blob/main/1757.%20Recyclable%20and%20Low%20Fat%20Products)
 * [584. Find Customer Referee / Найдите клиента-референта](https://github.com/Bazilit/SQL-LeetCode/blob/main/584.%20Find%20Customer%20Referee)
+* [183. Customers Who Never Order / Клиенты, которые никогда не заказывают](https://github.com/Bazilit/SQL-LeetCode/blob/main/183.%20Customers%20Who%20Never%20Order)
