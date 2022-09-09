@@ -1,0 +1,6 @@
+Task Description: https://leetcode.com/problems/recyclable-and-low-fat-products/
+
+
+SELECT Products.product_id
+FROM Products
+WHERE Products.low_fats='Y' AND Products.recyclable='Y'
