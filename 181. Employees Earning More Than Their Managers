@@ -1,0 +1,6 @@
+Task Description: https://leetcode.com/problems/employees-earning-more-than-their-managers/
+
+
+SELECT Employee_A.name AS Employee
+FROM Employee AS Employee_A, Employee AS Employee_B
+WHERE (Employee_A.managerId=Employee_B.id) AND (Employee_A.salary>Employee_B.salary)
