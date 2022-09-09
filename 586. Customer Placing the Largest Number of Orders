@@ -1,0 +1,10 @@
+# Task Description: https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/
+
+
+SELECT Orders_A.customer_number
+FROM
+(SELECT Orders.customer_number, COUNT(Orders.order_number) AS Count_Orders
+FROM Orders
+GROUP BY Orders.customer_number
+ORDER BY COUNT(Orders.order_number) DESC
+LIMIT 1) AS Orders_A
