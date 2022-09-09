@@ -1,0 +1,10 @@
+Task DEscription: https://leetcode.com/problems/duplicate-emails/
+
+
+SELECT email.email
+FROM (
+    SELECT Person.email, count(email) AS Count_email
+    FROM Person
+    GROUP BY Person.email
+) AS email
+WHERE email.Count_email>1
