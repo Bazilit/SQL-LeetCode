@@ -1,0 +1,6 @@
+Task Description: https://leetcode.com/problems/delete-duplicate-emails/
+
+
+DELETE Person_A 
+FROM Person AS Person_A, Person AS Person_B
+WHERE Person_A.Email = Person_B.Email AND Person_A.id > Person_B.id
