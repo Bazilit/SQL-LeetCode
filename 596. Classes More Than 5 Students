@@ -1,0 +1,10 @@
+# Task Description: https://leetcode.com/problems/classes-more-than-5-students/
+
+
+SELECT Students.class
+FROM (
+    SELECT Courses.class, count(Courses.student) AS Count_students 
+    FROM Courses
+    GROUP BY Courses.class
+) AS Students
+WHERE Students.Count_students>=5
