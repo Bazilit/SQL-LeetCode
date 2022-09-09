@@ -1,0 +1,7 @@
+Task Description: https://leetcode.com/problems/rising-temperature/
+
+
+SELECT Weather_A.id
+FROM Weather AS Weather_A, Weather AS Weather_B
+WHERE Weather_A.Temperature > Weather_B.Temperature
+AND DATEDIFF(Weather_A.Recorddate,Weather_B.Recorddate) = 1
