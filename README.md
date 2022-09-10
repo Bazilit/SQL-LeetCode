@@ -10,3 +10,4 @@
 * [595. Big Countries / Большие Страны](https://github.com/Bazilit/SQL-LeetCode/blob/main/595.%20Big%20Countries)
 * [596. Classes More Than 5 Students / В классах более 5 учеников](https://github.com/Bazilit/SQL-LeetCode/blob/main/596.%20Classes%20More%20Than%205%20Students)
 * [1757. Recyclable and Low Fat Products / Перерабатываемые и обезжиренные продукты](https://github.com/Bazilit/SQL-LeetCode/blob/main/1757.%20Recyclable%20and%20Low%20Fat%20Products)
+* [1873. Calculate Special Bonus / Рассчитать специальный бонус](https://github.com/Bazilit/SQL-LeetCode/blob/main/1873.%20Calculate%20Special%20Bonus)
