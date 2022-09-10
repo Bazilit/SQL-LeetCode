@@ -1,0 +1,12 @@
+# Task Description: https://leetcode.com/problems/calculate-special-bonus/
+
+
+SELECT Employees.employee_id, COALESCE(Employees_A.bonus, 0) AS bonus
+FROM (
+SELECT Employees.employee_id, Employees.salary AS bonus
+FROM Employees
+WHERE Employees.name NOT LIKE 'M%' AND Employees.employee_id % 2
+) AS Employees_A
+RIGHT JOIN Employees
+ON Employees_A.employee_id=Employees.employee_id
+ORDER BY Employees.employee_id
