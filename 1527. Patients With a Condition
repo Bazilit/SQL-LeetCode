@@ -1,0 +1,6 @@
+# Task Description: https://leetcode.com/problems/patients-with-a-condition/
+
+
+SELECT Patients.patient_id, Patients.patient_name, Patients.conditions
+FROM Patients
+WHERE (Patients.conditions LIKE'DIAB1%') OR (Patients.conditions LIKE'% DIAB1%')
