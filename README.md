@@ -1,5 +1,6 @@
 # SQL-LeetCode
 * [175. Combine Two Tables / Объединить две таблицы](https://github.com/Bazilit/SQL-LeetCode/blob/main/175.%20Combine%20Two%20Tables)
+* [176. Second Highest Salary / Вторая по величине зарплата](https://github.com/Bazilit/SQL-LeetCode/blob/main/176.%20Second%20Highest%20Salary)
 * [181. Employees Earning More Than Their Managers / Сотрудники зарабатывают больше, чем их менеджеры](https://github.com/Bazilit/SQL-LeetCode/blob/main/181.%20Employees%20Earning%20More%20Than%20Their%20Managers)
 * [182. Duplicate Emails / Дублирующиеся электронные письма](https://github.com/Bazilit/SQL-LeetCode/blob/main/182.%20Duplicate%20Emails)
 * [183. Customers Who Never Order / Клиенты, которые никогда не заказывают](https://github.com/Bazilit/SQL-LeetCode/blob/main/183.%20Customers%20Who%20Never%20Order)
