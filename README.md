@@ -11,6 +11,7 @@
 * [596. Classes More Than 5 Students / В классах более 5 учеников](https://github.com/Bazilit/SQL-LeetCode/blob/main/596.%20Classes%20More%20Than%205%20Students)
 * [627. Swap Salary / Обменная зарплата](https://github.com/Bazilit/SQL-LeetCode/blob/main/627.%20Swap%20Salary)
 * [1484. Group Sold Products By The Date / Группировать проданные товары по дате](https://github.com/Bazilit/SQL-LeetCode/blob/main/1484.%20Group%20Sold%20Products%20By%20The%20Date)
+* [1527. Patients With a Condition / Больные с заболеванием](https://github.com/Bazilit/SQL-LeetCode/blob/main/1527.%20Patients%20With%20a%20Condition)
 * [1667. Fix Names in a Table / Исправить имена в таблице](https://github.com/Bazilit/SQL-LeetCode/blob/main/1667.%20Fix%20Names%20in%20a%20Table)
 * [1757. Recyclable and Low Fat Products / Перерабатываемые и обезжиренные продукты](https://github.com/Bazilit/SQL-LeetCode/blob/main/1757.%20Recyclable%20and%20Low%20Fat%20Products)
 * [1873. Calculate Special Bonus / Рассчитать специальный бонус](https://github.com/Bazilit/SQL-LeetCode/blob/main/1873.%20Calculate%20Special%20Bonus)
