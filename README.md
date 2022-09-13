@@ -10,6 +10,7 @@
 * [586. Customer Placing the Largest Number of Orders / Клиент размещает наибольшее количество заказов](https://github.com/Bazilit/SQL-LeetCode/blob/main/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders)
 * [595. Big Countries / Большие Страны](https://github.com/Bazilit/SQL-LeetCode/blob/main/595.%20Big%20Countries)
 * [596. Classes More Than 5 Students / В классах более 5 учеников](https://github.com/Bazilit/SQL-LeetCode/blob/main/596.%20Classes%20More%20Than%205%20Students)
+* [608. Tree Node / Узел Дерева](https://github.com/Bazilit/SQL-LeetCode/blob/main/608.%20Tree%20Node)
 * [627. Swap Salary / Обменная зарплата](https://github.com/Bazilit/SQL-LeetCode/blob/main/627.%20Swap%20Salary)
 * [1148. Article Views I / Просмотры статьи I](https://github.com/Bazilit/SQL-LeetCode/blob/main/1148.%20Article%20Views%20I)
 * [1484. Group Sold Products By The Date / Группировать проданные товары по дате](https://github.com/Bazilit/SQL-LeetCode/blob/main/1484.%20Group%20Sold%20Products%20By%20The%20Date)
