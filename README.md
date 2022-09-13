@@ -10,6 +10,7 @@
 * [595. Big Countries / Большие Страны](https://github.com/Bazilit/SQL-LeetCode/blob/main/595.%20Big%20Countries)
 * [596. Classes More Than 5 Students / В классах более 5 учеников](https://github.com/Bazilit/SQL-LeetCode/blob/main/596.%20Classes%20More%20Than%205%20Students)
 * [627. Swap Salary / Обменная зарплата](https://github.com/Bazilit/SQL-LeetCode/blob/main/627.%20Swap%20Salary)
+* [1148. Article Views I / Просмотры статьи I](https://github.com/Bazilit/SQL-LeetCode/blob/main/1148.%20Article%20Views%20I)
 * [1484. Group Sold Products By The Date / Группировать проданные товары по дате](https://github.com/Bazilit/SQL-LeetCode/blob/main/1484.%20Group%20Sold%20Products%20By%20The%20Date)
 * [1527. Patients With a Condition / Больные с заболеванием](https://github.com/Bazilit/SQL-LeetCode/blob/main/1527.%20Patients%20With%20a%20Condition)
 * [1581. Customer Who Visited but Did Not Make Any Transactions / Клиент, который посетил, но не совершил никаких транзакций](https://github.com/Bazilit/SQL-LeetCode/blob/main/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions)
