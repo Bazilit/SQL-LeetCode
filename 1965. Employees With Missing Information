@@ -1,0 +1,15 @@
+# Task Description: https://leetcode.com/problems/employees-with-missing-information/
+
+
+SELECT Salaries_Employees.employee_id
+FROM (SELECT Employees.employee_id, Employees.name, Salaries.salary
+FROM Employees
+LEFT JOIN Salaries
+ON Salaries.employee_id=Employees.employee_id
+UNION
+SELECT Salaries.employee_id, Employees.name, Salaries.salary
+FROM Employees
+RIGHT JOIN Salaries
+ON Salaries.employee_id=Employees.employee_id) AS Salaries_Employees
+WHERE Salaries_Employees.name IS NULL OR Salaries_Employees.salary IS NULL
+ORDER BY Salaries_Employees.employee_id
