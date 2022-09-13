@@ -1,0 +1,14 @@
+Task Description: https://leetcode.com/problems/rearrange-products-table/
+
+
+SELECT Products_unpv.product_id, Products_unpv.store, Products_unpv.price
+FROM
+(SELECT Products.product_id, 'store1' AS store, Products.store1 AS price
+FROM Products
+UNION
+SELECT Products.product_id, 'store2' AS store, Products.store2 AS price
+FROM Products
+UNION
+SELECT Products.product_id, 'store3' AS store, Products.store3 AS price
+FROM Products) AS Products_unpv
+WHERE Products_unpv.price IS NOT NULL
