@@ -1,0 +1,6 @@
+# Task Description: https://leetcode.com/problems/fix-names-in-a-table/
+
+
+SELECT Users.user_id, CONCAT(UPPER(LEFT(Users.name, 1)), SUBSTRING(LCASE(Users.name),2,100)) AS name
+FROM Users
+ORDER BY Users.user_id
