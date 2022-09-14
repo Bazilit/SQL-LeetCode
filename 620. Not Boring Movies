@@ -1,0 +1,7 @@
+Task Description: https://leetcode.com/problems/not-boring-movies/
+
+
+SELECT Cinema.id, Cinema.movie, Cinema.description, Cinema.rating
+FROM Cinema
+WHERE (Cinema.id % 2) AND (Cinema.description <> 'boring')
+ORDER BY Cinema.rating DESC
