@@ -1,4 +1,4 @@
-Task Description: https://leetcode.com/problems/group-sold-products-by-the-date/
+# Task Description: https://leetcode.com/problems/group-sold-products-by-the-date/
 
 
 SELECT Activities.sell_date, COUNT(DISTINCT Activities.product) AS num_sold, GROUP_CONCAT(DISTINCT Activities.product) AS products
