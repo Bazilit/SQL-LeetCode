@@ -7,6 +7,7 @@
 * [196. Delete Duplicate Emails / Удалить повторяющиеся электронные письма](https://github.com/Bazilit/SQL-LeetCode/blob/main/196.%20Delete%20Duplicate%20Emails)
 * [197. Rising Temperature / Повышение температуры](https://github.com/Bazilit/SQL-LeetCode/blob/main/197.%20Rising%20Temperature)
 * [511. Game Play Analysis I / Анализ игрового процесса I](https://github.com/Bazilit/SQL-LeetCode/blob/main/511.%20Game%20Play%20Analysis%20I)
+* [512. Game Play Analysis II / Анализ игрового процесса II](https://github.com/Bazilit/SQL-LeetCode/blob/main/512.%20Game%20Play%20Analysis%20II)
 * [584. Find Customer Referee / Найдите клиента-референта](https://github.com/Bazilit/SQL-LeetCode/blob/main/584.%20Find%20Customer%20Referee)
 * [586. Customer Placing the Largest Number of Orders / Клиент размещает наибольшее количество заказов](https://github.com/Bazilit/SQL-LeetCode/blob/main/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders)
 * [595. Big Countries / Большие Страны](https://github.com/Bazilit/SQL-LeetCode/blob/main/595.%20Big%20Countries)
