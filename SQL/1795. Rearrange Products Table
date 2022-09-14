@@ -1,4 +1,4 @@
-Task Description: https://leetcode.com/problems/rearrange-products-table/
+# Task Description: https://leetcode.com/problems/rearrange-products-table/
 
 
 SELECT Products_unpv.product_id, Products_unpv.store, Products_unpv.price
