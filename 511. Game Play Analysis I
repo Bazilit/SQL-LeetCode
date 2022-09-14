@@ -1,4 +1,4 @@
-Task Description: https://leetcode.com/problems/game-play-analysis-i/
+# Task Description: https://leetcode.com/problems/game-play-analysis-i/
 
 
 SELECT Activity.player_id, MIN(Activity.event_date) AS first_login
