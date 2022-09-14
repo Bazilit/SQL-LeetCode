@@ -1,0 +1,9 @@
+# Task Description: https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/
+
+
+
+SELECT ActorDirector_count.actor_id, ActorDirector_count.director_id
+FROM (SELECT ActorDirector.actor_id, ActorDirector.director_id, COUNT(timestamp) AS count_time
+FROM ActorDirector
+GROUP BY ActorDirector.actor_id, ActorDirector.director_id) AS ActorDirector_count
+WHERE ActorDirector_count.count_time >=3
