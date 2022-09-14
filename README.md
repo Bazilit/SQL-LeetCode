@@ -18,6 +18,7 @@
 * [620. Not Boring Movies / Нескучные фильмы](https://github.com/Bazilit/SQL-LeetCode/blob/main/620.%20Not%20Boring%20Movies)
 * [627. Swap Salary / Обменная зарплата](https://github.com/Bazilit/SQL-LeetCode/blob/main/627.%20Swap%20Salary)
 * [1050. Actors and Directors Who Cooperated At Least Three Times / Актеры и режиссеры, сотрудничавшие не менее трех раз](https://github.com/Bazilit/SQL-LeetCode/blob/main/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times)
+* [1084. Sales Analysis III / Анализ продаж III](https://github.com/Bazilit/SQL-LeetCode/blob/main/1084.%20Sales%20Analysis%20III)
 * [1148. Article Views I / Просмотры статьи I](https://github.com/Bazilit/SQL-LeetCode/blob/main/1148.%20Article%20Views%20I)
 * [1484. Group Sold Products By The Date / Группировать проданные товары по дате](https://github.com/Bazilit/SQL-LeetCode/blob/main/1484.%20Group%20Sold%20Products%20By%20The%20Date)
 * [1527. Patients With a Condition / Больные с заболеванием](https://github.com/Bazilit/SQL-LeetCode/blob/main/1527.%20Patients%20With%20a%20Condition)
