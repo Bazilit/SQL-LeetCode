@@ -20,6 +20,7 @@
 * [1050. Actors and Directors Who Cooperated At Least Three Times / Актеры и режиссеры, сотрудничавшие не менее трех раз](https://github.com/Bazilit/SQL-LeetCode/blob/main/SQL/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times)
 * [1084. Sales Analysis III / Анализ продаж III](https://github.com/Bazilit/SQL-LeetCode/blob/main/SQL/1084.%20Sales%20Analysis%20III)
 * [1148. Article Views I / Просмотры статьи I](https://github.com/Bazilit/SQL-LeetCode/blob/main/SQL/1148.%20Article%20Views%20I)
+* [1179. Reformat Department Table / Переформатировать таблицу отделов](https://github.com/Bazilit/SQL-LeetCode/blob/main/SQL/1179.%20Reformat%20Department%20Table)
 * [1484. Group Sold Products By The Date / Группировать проданные товары по дате](https://github.com/Bazilit/SQL-LeetCode/blob/main/SQL/1484.%20Group%20Sold%20Products%20By%20The%20Date)
 * [1527. Patients With a Condition / Больные с заболеванием](https://github.com/Bazilit/SQL-LeetCode/blob/main/SQL/1527.%20Patients%20With%20a%20Condition)
 * [1581. Customer Who Visited but Did Not Make Any Transactions / Клиент, который посетил, но не совершил никаких транзакций](https://github.com/Bazilit/SQL-LeetCode/blob/main/SQL/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions)
