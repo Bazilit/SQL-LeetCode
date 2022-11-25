@@ -28,3 +28,25 @@ LEFT JOIN
  Income_sum 
 ON Income_sum.point = Outcome_sum.point AND
  Income_sum.date = Outcome_sum.date
+
+-- Второй вариант решения
+
+WITH Income_sum AS (
+SELECT point, date, SUM(inc) AS inc
+FROM Income
+GROUP BY
+point, date), 
+Outcome_sum AS (
+SELECT point, date, SUM(out) AS out
+FROM Outcome
+GROUP BY
+point, date)
+
+
+SELECT 
+coalesce(Income_sum.point, Outcome_sum.point), coalesce(Income_sum.date, Outcome_sum.date), Outcome_sum.out AS Outcome, Income_sum.inc AS Income
+FROM Income_sum
+FULL JOIN 
+ Outcome_sum
+ON Income_sum.point = Outcome_sum.point AND
+ Income_sum.date = Outcome_sum.dat
